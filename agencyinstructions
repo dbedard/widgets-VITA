@@ -1,0 +1,34 @@
+Standardized instructions  provided to all VITA agencies for search widget generation, modification and use.
+(Assumes that a user is using the automated "widget generator" included in the VITAtoolkit)
+
+=================================
+
+Enable your Search Widget
+
+
+Want to add a search widget for your OurOntario.ca VITA public site to other websites or home pages?
+
+
+Two sets of actions are required:
+ 1) Ensure you have completed the parts that create the search widget from within the VITA toolkit  
+[NOTE: level three VITA logon required]
+
+2) Copy the widget code and paste it into the other/alternative web site where you'd like the widget to appear 
+[NOTE: To use this code, you will need to have editing permissions on the page where you would like the widget to appear (such as your organization’s homepage), or will need to pass on the link for the SearchWidget code to the person who does.]
+
+How to do…
+Let’s walk through the setup, using Muskoka Images as an example….
+
+ACTION ONE – the VITA toolset steps:
+
+Login to VITA as a level three user, 
+And click into SITE MANAGEMENT from the MAIN MENU screen
+
+Start with the GENERAL VALUES screen:
+Look for the DESCRIPTION box, and enter a clear concise description of your site. This will provide the text block on your site’s search widget. Try to keep it short.
+
+Next – in the left navigation options, select SEARCH WIDGETS:
+Use the SEARCH WIDGET IMAGE browse button to upload your widget’s graphic. 
+
+When finished, click on the REINITIALIZE PUBLIC SITE button, then use the link in the navigation bar to VIEW PUBLIC SITE.
+
