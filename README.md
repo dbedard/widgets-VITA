@@ -8,4 +8,4 @@ All agency sites for VITA toolkit users can have a generated customizable search
 Sample:
 a sample to see  -  the L.M. Montgomery Research Centre - University of Guelph rendition of the search widget 
 - this widget limits the result set for the L.M. Montgomery Research Centre.
-          http://www.ourontario.ca/portlets/29/searchwidget-OO.html
+http://www.ourontario.ca/portlets/29/searchwidget-OO.html
