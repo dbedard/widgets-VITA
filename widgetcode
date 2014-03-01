@@ -1,0 +1,20 @@
+<style media="screen" type="text/css">
+    @import "http://www.OurOntario.ca/portlets/_common/minisearch.css";
+    form.minisearch-oo h4 {background: transparent url("http://www.ourontario.ca/portlets/29/searchtile_286x73.jpg") no-repeat top left;}
+</style>
+<form class="minisearch minisearch-oo" method="get" action="http://images.ourontario.ca/uoguelph/results.asp">
+   <h4>L.M. Montgomery Research Centre - University of Guelph</h4>
+   <fieldset>
+      <input class="minisearch" size="30" name="q" type="text" /><input alt="submit" src="http://www.OurOntario.ca/portlets/_common/minisearch_button.jpg" class="minisubmit" value="submit" type="image" />
+	  <input type="hidden" name="r" value="wlmm" />
+  <p> Search the L.M. Montgomery Research Centre, highlighting the University of Guelph's extensive collection of Montgomery memorabilia — including her private journals, scrapbooks, handiwork, photographs, and other records. For more information or more search options - <a href="http://images.ourontario.ca/uoguelph/search.asp">Visit our site</a>.</p>
+   </fieldset>
+</form>
+
+
+
+
+
+Usage notes:   
+1) the CSS and widget graphics are called from the VITAtoolkit server, where the Agency site originates.
+2) the line above starting "form.minisearch-oo" needs to be on one line even though it may wrap in your display.
