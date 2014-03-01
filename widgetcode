@@ -17,4 +17,12 @@
 
 Usage notes:   
 1) the CSS and widget graphics are called from the VITAtoolkit server, where the Agency site originates.
+
 2) the line above starting "form.minisearch-oo" needs to be on one line even though it may wrap in your display.
+
+3) widget expects the site to provide an appropriate "branding" graphic  with the following specifications:
+Search Widget Tile
+• searchtile_286x73.jpg
+• JPEG (.jpg)
+• 286 pixels wide 73 pixels high
+• optimized for web, so in the 12 – 20 KB file size range max.
