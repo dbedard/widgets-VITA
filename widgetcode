@@ -14,7 +14,7 @@
 
 
 
-
+=======================================================
 Usage notes:   
 1) the CSS and widget graphics are called from the VITAtoolkit server, where the Agency site originates.
 
@@ -28,4 +28,4 @@ Search Widget Tile
 • optimized for web, so in the 12 – 20 KB file size range max.
 
 Download the base wrapper for the branding slice here: 
-<a href="http://www.ourontario.ca/portlets/_common/searchtile_286x73.psd">Get PSD template file</a>
+http://www.ourontario.ca/portlets/_common/searchtile_286x73.psd
